@@ -1,3 +1,9 @@
 * {
   background-color: aqua;
 }
+
+.landing-page-text {
+  font-size: 5vw;
+  text-align: start;
+  margin: 1vw;
+}
