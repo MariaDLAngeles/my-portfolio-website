@@ -18,9 +18,9 @@ function IconLinks() {
         <FiVideo title="Video Icon" className="project-icons" />
         </div>
         <div className="social-media-icons-row">
-        <a href="https://www.instagram.com/doughnut_days/"><FaSquareInstagram title="Instagram Icon" className="social-media-icons"/></a>
-        <FaLinkedin title="LinkedIn Icon" className="social-media-icons"/>
-        <IoLogoGithub title="GitHub Icon" className="social-media-icons"/>
+        <a href="https://www.instagram.com/doughnut_days/" alt="Link to Doughnut Days Instagram account"><FaSquareInstagram title="Instagram Icon" className="social-media-icons"/></a>
+        <a href="https://www.linkedin.com/in/maria-angeles1/" alt="Link to Maria Angeles LinkedIn account"><FaLinkedin title="LinkedIn Icon" className="social-media-icons"/></a>
+        <a href="https://github.com/MariaDLAngeles" alt="Link to Maria Angeles GitHub account"><IoLogoGithub title="GitHub Icon" className="social-media-icons"/></a>
       </div>
     </>
   );
