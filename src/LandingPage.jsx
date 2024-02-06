@@ -1,3 +1,4 @@
+import CodePage from "./CodePage"
 import IconLinks from "./IconLinks"
 
 
@@ -11,6 +12,10 @@ console.log('landing page')
         <p>Check out some of my projects and connect with me on Social Media!</p>
         <div><IconLinks /></div>
         <p className="bottom-of-landing-page-text">Made with love and React because I&#39;m just scared enough of everything else.</p>
+        <br></br>
+        <br></br>
+        <CodePage />
+        
         </>
     )
 }
